@@ -3,7 +3,7 @@
 ## Table of Contents
 
 1) Introduction to Programmable Logic Controllers (PLCs)
-1.1 Definition and History of Programmable Logic Controllers (PLCs)
+  1.1 Definition and History of Programmable Logic Controllers (PLCs)
 1.2 Advantages and Disadvantages of PLCs over Traditional Control Systems
 1.3 Applications and Industries that use PLCs
 1.4 Basic Components and Architecture of a PLC System
